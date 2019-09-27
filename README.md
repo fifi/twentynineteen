@@ -1,10 +1,10 @@
-**Theme Name:** Twenty Nineteen  
-**Theme URI:** https://wordpress.org/themes/twentynineteen/  
-**Contributors:** the WordPress team  
-**Requires at least:** WordPress 4.9.6  
-**Version:** 1.2  
-**License:** GPLv2 or later  
-**License URI:** http://www.gnu.org/licenses/gpl-2.0.html  
+**Theme Name:** Twenty Nineteen (sans-serif)
+**Theme URI:** https://github.com/fifi/twentynineteen-sansserif
+**Contributors:** the WordPress team / sans-serif by fifi
+**Requires at least:** WordPress 4.9.6
+**Version:** 1.2
+**License:** GPLv2 or later
+**License URI:** http://www.gnu.org/licenses/gpl-2.0.html
 **Tags:** one-column, flexible-header, accessibility-ready, custom-colors, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, rtl-language-support, sticky-post, threaded-comments, translation-ready
 
 ## Description
